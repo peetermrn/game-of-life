@@ -2,6 +2,7 @@ John Conway's Game of life.. well sort of but a limited version since the origin
 
 [John Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-To play run the DesktopLauncher file or double-click on the gol.jar file (if you have java) in desktop/build/libs."# game-of-life" 
+To play run the DesktopLauncher file or double-click on the gol.jar file (if you have java) in desktop/build/libs.
+ 
 
 Made with java and libGDX
